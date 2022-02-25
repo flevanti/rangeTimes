@@ -1,4 +1,4 @@
-package timeRanges
+package timeranges
 
 import "time"
 
